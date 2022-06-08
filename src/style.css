@@ -1,1 +1,15 @@
-/* styles go here */
+.nomargin {
+  margin-bottom: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.lox {
+  margin-bottom: 10px;
+}
